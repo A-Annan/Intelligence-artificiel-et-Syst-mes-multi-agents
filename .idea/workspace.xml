@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65ffbab8-f72e-480d-a806-b8f37b3fca2b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Za4I2zmNGcRbwRFTOOFnRc0U7b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Vendeur" />
+      <recent name="Containers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.VendeurGui">
+    <configuration name="AchteurGui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Containers.AchteurGui" />
+      <module name="SMA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Containers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerContainer" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Containers.ConsumerContainer" />
+      <module name="SMA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Containers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainContainer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Containers.MainContainer" />
+      <module name="SMA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Containers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleContainer" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Containers.SimpleContainer" />
+      <module name="SMA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Containers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VendeurGui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vendeur.VendeurGui" />
+      <module name="SMA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Vendeur.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ConsumerContainer" />
+      <item itemvalue="Application.MainContainer" />
+      <item itemvalue="Application.SimpleContainer" />
+      <item itemvalue="Application.AchteurGui" />
+      <item itemvalue="Application.VendeurGui" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VendeurGui" />
+        <item itemvalue="Application.AchteurGui" />
+        <item itemvalue="Application.ConsumerContainer" />
+        <item itemvalue="Application.MainContainer" />
+        <item itemvalue="Application.SimpleContainer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_NON_PUBLIC" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65ffbab8-f72e-480d-a806-b8f37b3fca2b" name="Default Changelist" comment="" />
+      <created>1585063787711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585063787711</updated>
+      <workItem from="1585063789929" duration="13686000" />
+      <workItem from="1585272517871" duration="23593000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585340439641">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1585066662555" />
+    <state x="137" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1585340439641" />
+    <state x="453" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1585160933918">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="453" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1585160933918" />
+    <state width="1638" height="274" key="GridCell.Tab.0.bottom" timestamp="1585458440458">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1238" height="188" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1585162125584" />
+    <state width="1638" height="274" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585457325554" />
+    <state width="1238" height="188" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1585186721903" />
+    <state width="1638" height="274" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1585458440458" />
+    <state width="1638" height="274" key="GridCell.Tab.0.center" timestamp="1585458440456">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1238" height="188" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1585162125583" />
+    <state width="1638" height="274" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585457325551" />
+    <state width="1238" height="188" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1585186721902" />
+    <state width="1638" height="274" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1585458440456" />
+    <state width="1638" height="274" key="GridCell.Tab.0.left" timestamp="1585458440455">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1238" height="188" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1585162125582" />
+    <state width="1638" height="274" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585457325550" />
+    <state width="1238" height="188" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1585186721901" />
+    <state width="1638" height="274" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1585458440455" />
+    <state width="1638" height="274" key="GridCell.Tab.0.right" timestamp="1585458440457">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1238" height="188" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1585162125583" />
+    <state width="1638" height="274" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585457325552" />
+    <state width="1238" height="188" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1585186721902" />
+    <state width="1638" height="274" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1585458440457" />
+    <state x="168" y="0" key="SettingsEditor" timestamp="1585457139891">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="128" y="0" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1585075227665" />
+    <state x="168" y="0" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1585457139891" />
+    <state x="417" y="256" width="845" height="538" key="find.popup" timestamp="1585277023441">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="417" y="256" width="845" height="538" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1585277023441" />
+    <state x="400" y="163" width="880" height="888" key="search.everywhere.popup" timestamp="1585457131531">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1585161421046" />
+    <state x="400" y="163" width="880" height="888" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1585457131531" />
+  </component>
+</project>
